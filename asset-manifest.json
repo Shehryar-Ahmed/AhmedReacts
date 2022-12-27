@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AhmedReacts/static/css/main.c699072f.css",
+    "main.js": "/AhmedReacts/static/js/main.f67271e4.js",
+    "static/js/787.5ae20a97.chunk.js": "/AhmedReacts/static/js/787.5ae20a97.chunk.js",
+    "static/media/houserem.png": "/AhmedReacts/static/media/houserem.6220fb12a09190898346.png",
+    "static/media/digital.png": "/AhmedReacts/static/media/digital.a98b66cc62d8d80853d8.png",
+    "static/media/bg.png": "/AhmedReacts/static/media/bg.90a77150e3d1fb001931.png",
+    "static/media/Web-Development-Concept-1.webp": "/AhmedReacts/static/media/Web-Development-Concept-1.ea2227f7a525a56f43bf.webp",
+    "static/media/soft.jpeg": "/AhmedReacts/static/media/soft.255f74acbbecf4ef5ec8.jpeg",
+    "index.html": "/AhmedReacts/index.html",
+    "main.c699072f.css.map": "/AhmedReacts/static/css/main.c699072f.css.map",
+    "main.f67271e4.js.map": "/AhmedReacts/static/js/main.f67271e4.js.map",
+    "787.5ae20a97.chunk.js.map": "/AhmedReacts/static/js/787.5ae20a97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c699072f.css",
+    "static/js/main.f67271e4.js"
+  ]
+}
